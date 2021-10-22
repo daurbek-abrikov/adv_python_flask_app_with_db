@@ -11,12 +11,6 @@ PyPI
 pip install flask flask-sqlalchemy pyjwt  
 ```
 
-after this, it is needed to run this code below in src folder, where is app.py located
-in order to run the server:
-
-```bash
-flask run  
-```
 
 ### Usage
 In order to run the server it is needed to run this script below in src folder, where is app.py located
