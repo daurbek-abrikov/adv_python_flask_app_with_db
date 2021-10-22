@@ -31,7 +31,7 @@ http://127.0.0.1:5000/
 
 There are three routes: '/' (default), '/login' login page and '/protected' page to verify token.  
 
-Use data about user provided in app.py in order to log in on '/login' page, then it will generate token.
+Use data about user provided in app.py, in order to log in  on '/login' page, then it will generate token.
 If we pass this token as a parameter to '/protected' route, it will respond:
 html text: <h1>Hello, token which is provided is correct </h1>, if as a parameter RIGHT token value is passed!
 or otherwise:
