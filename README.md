@@ -1,6 +1,7 @@
 # adv_python_flask_app_with_db
 Title:  Assignment 3
-Flask web application with database.
+
+Python Flask web application with database.
 
 Python, Flask for basis, for front: HTML and CSS, for back: SQLAlchemy as ORM and PostgreSQL as DBMS.
 Program that makes user able to input needed cryptocurrency name and then working with paragraphs related to choosen cryptocurrency, from coingecko.com 
